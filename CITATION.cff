@@ -11,13 +11,9 @@ authors:
   - family-names: Chen
     given-names: Ching-Han
     affiliation: "Department of Computer Science and Information Engineering, National Central University, Taiwan"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-license:
-  - MIT
-  - CC-BY-4.0
-version: "1.0.0"
+license: MIT
+version: "1.0.2"
 date-released: "2026-10-19"
-# doi: "10.5281/zenodo.XXXXXXX"
 repository-code: "https://github.com/PierreChingHanChen/learnable-ants-cwc"
 keywords:
   - stigmergy
