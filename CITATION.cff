@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below. The article reference will be added on publication."
+title: "Learnable ants: Coordination without convergence (code and data)"
+abstract: >-
+  Simulation platform, per-seed results and figures for the study
+  "Coordination without convergence: Three decouplings in learnable ant
+  collectives", in which colonies of small transformer agents coordinate
+  only through a pheromone medium.
+type: software
+authors:
+  - family-names: Chen
+    given-names: Ching-Han
+    affiliation: "Department of Computer Science and Information Engineering, National Central University, Taiwan"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+license:
+  - MIT
+  - CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-10-19"
+# doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/PierreChingHanChen/learnable-ants-cwc"
+keywords:
+  - stigmergy
+  - multi-agent systems
+  - collective intelligence
+  - ant colony
+  - transformer
+  - counterfactual attribution
+  - Shapley value
