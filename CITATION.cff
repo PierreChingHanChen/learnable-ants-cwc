@@ -12,8 +12,9 @@ authors:
     given-names: Ching-Han
     affiliation: "Department of Computer Science and Information Engineering, National Central University, Taiwan"
 license: MIT
-version: "1.0.2"
+version: "1.0.3"
 date-released: "2026-10-19"
+doi: "10.5281/zenodo.23474990"
 repository-code: "https://github.com/PierreChingHanChen/learnable-ants-cwc"
 keywords:
   - stigmergy

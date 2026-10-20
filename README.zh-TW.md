@@ -1,5 +1,7 @@
 [English](README.md) | 中文
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23474990.svg)](https://doi.org/10.5281/zenodo.23474990)
+
 # 可學習螞蟻：協調而不趨同
 
 本儲存庫收錄〈**Coordination without convergence: Three decouplings in learnable ant collectives**〉（陳慶瀚，國立中央大學）研究的程式碼、資料與圖表。
@@ -12,7 +14,7 @@ AI 代理人系統愈來愈常透過「留在共享記憶中的東西」彼此�
 | D2 痕跡誇大了責任的集中程度 | 「誰寫了什麼」的紀錄能定位責任 | 留下最多痕跡的四分之一螞蟻占痕跡的 40%，Shapley 值卻只占 31%；沒有任何單一螞蟻是必要的；蟻群產出比各部分單獨產出的總和多 30%。這些結果已在新種子上以事前指定的檢定重現。 |
 | D3 恢復而不回歸 | 恢復就是回到原本狀態 | 擾動後群體表現恢復了，存檔的解與個體策略卻沒有回到原狀。 |
 
-論文目前審稿中。正式發表後，會在此補上引用資訊與存檔版本的 DOI。
+論文目前審稿中，正式發表後會在此補上期刊引用資訊。論文所用的版本（v1.0.3）已存檔於 Zenodo：[doi:10.5281/zenodo.23474990](https://doi.org/10.5281/zenodo.23474990)。
 
 ## 內容
 
@@ -138,7 +140,11 @@ f(agent_id, cur, allowed_mask, tau_row, eta_row, rng) -> next_city
 
 ## 引用
 
-使用本程式碼或資料時，請引用本儲存庫（見 [CITATION.cff](CITATION.cff)）；論文正式發表後會補上期刊引用資訊。
+使用本程式碼或資料時，請引用存檔版本：
+
+> Chen, C.-H. (2026). *Learnable ants: Coordination without convergence (code and data)* (v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.23474990
+
+機器可讀的引用資訊見 [CITATION.cff](CITATION.cff)。論文正式發表後會補上期刊引用資訊。
 
 ## 聯絡
 

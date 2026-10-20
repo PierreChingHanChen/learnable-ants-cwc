@@ -1,5 +1,7 @@
 English | [中文](README.zh-TW.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23474990.svg)](https://doi.org/10.5281/zenodo.23474990)
+
 # Learnable ants: Coordination without convergence
 
 Code, data, and figures for the study **"Coordination without convergence: Three decouplings in learnable ant collectives"** (Ching-Han Chen, National Central University, Taiwan).
@@ -12,7 +14,7 @@ Systems of AI agents increasingly coordinate through what they leave in shared m
 | D2 Traces overstate how concentrated responsibility is | Records of who wrote what locate responsibility | The quarter of ants leaving the most trail carried 40% of the trace but 31% of the Shapley value; no single ant was necessary; the colony produced 30% more than its parts alone. Replicated on fresh seeds with prespecified tests. |
 | D3 Recovery without return | Recovery restores the prior state | Collective performance recovered after a perturbation, whereas archived solutions and individual policies did not. |
 
-The manuscript is under review. Citation details and the archived release (DOI) will be added here on publication.
+The manuscript is under review; the article reference will be added here on publication. The release used for the manuscript (v1.0.3) is archived at Zenodo: [doi:10.5281/zenodo.23474990](https://doi.org/10.5281/zenodo.23474990).
 
 ## Contents
 
@@ -138,7 +140,11 @@ The platform reimplements, in Python, the Java applets of C.-H. Chen's 2000 thes
 
 ## Citation
 
-If you use this code or data, please cite the repository (see [CITATION.cff](CITATION.cff)); the article reference will be added on publication.
+If you use this code or data, please cite the archived release:
+
+> Chen, C.-H. (2026). *Learnable ants: Coordination without convergence (code and data)* (v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.23474990
+
+Machine-readable metadata are in [CITATION.cff](CITATION.cff). The article reference will be added on publication.
 
 ## Contact
 
